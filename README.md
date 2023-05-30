@@ -22,8 +22,13 @@ We choose the destination bucket
 
 We choose IAM roles to be used(either create a new one or use existing role)
 Save the settings
-![1](https://github.com/lexbytez/AWS-S3-Cross-Region-Replication/assets/128375535/2d39a4c5-c9ea-4606-a959-3604cf3c51af)
-![2](https://github.com/lexbytez/AWS-S3-Cross-Region-Replication/assets/128375535/9e2e95fa-21db-4942-a0f2-43ed4a77a701)
-![3](https://github.com/lexbytez/AWS-S3-Cross-Region-Replication/assets/128375535/fb9ca4c5-0b4b-4578-82e2-44325cf0ea4c)
-![4](https://github.com/lexbytez/AWS-S3-Cross-Region-Replication/assets/128375535/ce2dc65b-9048-416d-aba8-c1dc16e82c51)
+![1](https://github.com/lexbytez/AWS-S3-Cross-Region-Replication/assets/128375535/2ff7d2d6-ba49-4c88-b8d0-234d97ef8704)
+![2](https://github.com/lexbytez/AWS-S3-Cross-Region-Replication/assets/128375535/73342520-ff82-483c-b95e-2576b5f2bd6c)
+![3](https://github.com/lexbytez/AWS-S3-Cross-Region-Replication/assets/128375535/3ddedba0-8747-4dd4-8df8-b574b453d1fc)
+Next
 
+Head into the main bucket and upload our file(chak-test.txt)
+
+we wait few minutes and check the destination bucket to make sure same file has been replicated into it
+![1](https://github.com/lexbytez/AWS-S3-Cross-Region-Replication/assets/128375535/b7adc11e-8683-4454-96e4-659aaf6db055)
+![2](https://github.com/lexbytez/AWS-S3-Cross-Region-Replication/assets/128375535/5233e301-9588-42f2-b5ec-33f4b3d2a931)
